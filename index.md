@@ -7,3 +7,6 @@
 $ git init
 Initializes a git repository
 ```
+- [x] task 1
+- [x] task 2
+- [ ] task 3
